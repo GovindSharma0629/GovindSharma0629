@@ -68,7 +68,7 @@ First end-to-end ML project. Applied EDA on a 958-record smartphone dataset, bui
 ### 🌐 Personal Portfolio Website
 `React` `Vite` `Tailwind CSS` `Netlify`
 
-Fully self-directed — all UX decisions, layout architecture, and content structure are original. Live at [govindsharma0.netlify.app](https://govindsharma0.netlify.app/).
+Fully self-directed — all UX decisions, layout architecture, and content structure are original. Live at [govindsharma0.netlify.app](https://govindportfollio.netlify.app/).
 
 ---
 
